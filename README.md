@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ---
 #### This is a [Link]() to my live site on GitHub where a repository of my work is.
----
+---https://teddie98.github.io/Git-Search/
 
 #### Technologies used to make the app are;
 * HTML
